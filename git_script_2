@@ -2986,4 +2986,373 @@ no changes added to commit (use "git add" and/or "git commit -a")
 (base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ touch .gitignore
 (base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ ls
 [0m[01;32mCONTRIBUTING.md[0m  [01;32mREADME[0m  [01;32mgit_script_2[0m  [34;42mshell-lesson-data[0m  [01;32munix_script_1.1[0m
-(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Modul
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git add .
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git sy[Ktatus
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   .gitignore[m
+	[32mmodified:   git_script_2[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   git_script_2[m
+
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git ls-filkes[K[K[Kes
+.gitignore
+CONTRIBUTING.md
+README
+git_script_2
+shell-lesson-data/exercise-data/animal-counts/animals.csv
+shell-lesson-data/exercise-data/animal-counts/animals.txt
+shell-lesson-data/exercise-data/animal-counts/bear.txt
+shell-lesson-data/exercise-data/animal-counts/final.txt
+shell-lesson-data/exercise-data/animal-counts/rabbit.txt
+shell-lesson-data/exercise-data/animal-counts/redo-figure-3.sh
+shell-lesson-data/exercise-data/animal-counts/species,sh
+shell-lesson-data/exercise-data/animal-counts/species.sh
+shell-lesson-data/exercise-data/backup/minotaur.dat
+shell-lesson-data/exercise-data/backup/unicorn.dat
+shell-lesson-data/exercise-data/creatures/basilisk.dat
+shell-lesson-data/exercise-data/creatures/for
+shell-lesson-data/exercise-data/creatures/head
+shell-lesson-data/exercise-data/creatures/minotaur.dat
+shell-lesson-data/exercise-data/creatures/original-basilisk.dat
+shell-lesson-data/exercise-data/creatures/original-minotaur.dat
+shell-lesson-data/exercise-data/creatures/original-unicorn.dat
+shell-lesson-data/exercise-data/creatures/unicorn.dat
+shell-lesson-data/exercise-data/numbers.txt
+shell-lesson-data/exercise-data/proteins/alkanes.pdb
+shell-lesson-data/exercise-data/proteins/all.pdb
+shell-lesson-data/exercise-data/proteins/cubane.pdb
+shell-lesson-data/exercise-data/proteins/ethane.pdb
+shell-lesson-data/exercise-data/proteins/final.txt
+shell-lesson-data/exercise-data/proteins/lengths.txt
+shell-lesson-data/exercise-data/proteins/methane.pdb
+shell-lesson-data/exercise-data/proteins/middle.sh
+shell-lesson-data/exercise-data/proteins/octane.pdb
+shell-lesson-data/exercise-data/proteins/pentane.pdb
+shell-lesson-data/exercise-data/proteins/propane.pdb
+shell-lesson-data/exercise-data/proteins/script1.sh
+shell-lesson-data/exercise-data/proteins/script2.sh
+shell-lesson-data/exercise-data/proteins/script3.sh
+shell-lesson-data/exercise-data/proteins/sorted-lengths.txt
+shell-lesson-data/exercise-data/proteins/sorted.sh
+shell-lesson-data/exercise-data/proteins/species.sh
+shell-lesson-data/exercise-data/proteins/testfile01.txt
+shell-lesson-data/exercise-data/writing/LittleWomen.txt
+shell-lesson-data/exercise-data/writing/haiku.txt
+shell-lesson-data/exercise-data/writing/thesis_backup/quotations.txt
+shell-lesson-data/north-pacific-gyre/NENE01729A.txt
+shell-lesson-data/north-pacific-gyre/NENE01729B.txt
+shell-lesson-data/north-pacific-gyre/NENE01736A.txt
+shell-lesson-data/north-pacific-gyre/NENE01751A.txt
+shell-lesson-data/north-pacific-gyre/NENE01751B.txt
+shell-lesson-data/north-pacific-gyre/NENE01812A.txt
+shell-lesson-data/north-pacific-gyre/NENE01843A.txt
+shell-lesson-data/north-pacific-gyre/NENE01843B.txt
+shell-lesson-data/north-pacific-gyre/NENE01971Z.txt
+shell-lesson-data/north-pacific-gyre/NENE01978A.txt
+shell-lesson-data/north-pacific-gyre/NENE01978B.txt
+shell-lesson-data/north-pacific-gyre/NENE02018B.txt
+shell-lesson-data/north-pacific-gyre/NENE02040A.txt
+shell-lesson-data/north-pacific-gyre/NENE02040B.txt
+shell-lesson-data/north-pacific-gyre/NENE02040Z.txt
+shell-lesson-data/north-pacific-gyre/NENE02043A.txt
+shell-lesson-data/north-pacific-gyre/NENE02043B.txt
+shell-lesson-data/north-pacific-gyre/do-errors.sh
+shell-lesson-data/north-pacific-gyre/do-stats.sh
+shell-lesson-data/north-pacific-gyre/goodiff.sh
+shell-lesson-data/north-pacific-gyre/goostats.sh
+shell-lesson-data/north-pacific-gyre/stats-NENE01729A.txt
+shell-lesson-data/north-pacific-gyre/stats-NENE01729B.txt
+shell-lesson-data/north-pacific-gyre/stats-NENE01736A.txt
+shell-lesson-data/north-pacific-gyre/stats-NENE01751A.txt
+shell-lesson-data/north-pacific-gyre/stats-NENE01751B.txt
+shell-lesson-data/north-pacific-gyre/stats-NENE01812A.txt
+shell-lesson-data/north-pacific-gyre/stats-NENE01843A.txt
+shell-lesson-data/north-pacific-gyre/stats-NENE01843B.txt
+shell-lesson-data/north-pacific-gyre/stats-NENE01978A.txt
+shell-lesson-data/north-pacific-gyre/stats-NENE01978B.txt
+shell-lesson-data/north-pacific-gyre/stats-NENE02018B.txt
+shell-lesson-data/north-pacific-gyre/stats-NENE02040A.txt
+shell-lesson-data/north-pacific-gyre/stats-NENE02040B.txt
+shell-lesson-data/north-pacific-gyre/stats-NENE02043A.txt
+shell-lesson-data/north-pacific-gyre/stats-NENE02043B.txt
+unix_script_1.1
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git rm -r --cached myFolder[K[K[K[K[K[K[K[Kshell-lesson-data
+rm 'shell-lesson-data/exercise-data/animal-counts/animals.csv'
+rm 'shell-lesson-data/exercise-data/animal-counts/animals.txt'
+rm 'shell-lesson-data/exercise-data/animal-counts/bear.txt'
+rm 'shell-lesson-data/exercise-data/animal-counts/final.txt'
+rm 'shell-lesson-data/exercise-data/animal-counts/rabbit.txt'
+rm 'shell-lesson-data/exercise-data/animal-counts/redo-figure-3.sh'
+rm 'shell-lesson-data/exercise-data/animal-counts/species,sh'
+rm 'shell-lesson-data/exercise-data/animal-counts/species.sh'
+rm 'shell-lesson-data/exercise-data/backup/minotaur.dat'
+rm 'shell-lesson-data/exercise-data/backup/unicorn.dat'
+rm 'shell-lesson-data/exercise-data/creatures/basilisk.dat'
+rm 'shell-lesson-data/exercise-data/creatures/for'
+rm 'shell-lesson-data/exercise-data/creatures/head'
+rm 'shell-lesson-data/exercise-data/creatures/minotaur.dat'
+rm 'shell-lesson-data/exercise-data/creatures/original-basilisk.dat'
+rm 'shell-lesson-data/exercise-data/creatures/original-minotaur.dat'
+rm 'shell-lesson-data/exercise-data/creatures/original-unicorn.dat'
+rm 'shell-lesson-data/exercise-data/creatures/unicorn.dat'
+rm 'shell-lesson-data/exercise-data/numbers.txt'
+rm 'shell-lesson-data/exercise-data/proteins/alkanes.pdb'
+rm 'shell-lesson-data/exercise-data/proteins/all.pdb'
+rm 'shell-lesson-data/exercise-data/proteins/cubane.pdb'
+rm 'shell-lesson-data/exercise-data/proteins/ethane.pdb'
+rm 'shell-lesson-data/exercise-data/proteins/final.txt'
+rm 'shell-lesson-data/exercise-data/proteins/lengths.txt'
+rm 'shell-lesson-data/exercise-data/proteins/methane.pdb'
+rm 'shell-lesson-data/exercise-data/proteins/middle.sh'
+rm 'shell-lesson-data/exercise-data/proteins/octane.pdb'
+rm 'shell-lesson-data/exercise-data/proteins/pentane.pdb'
+rm 'shell-lesson-data/exercise-data/proteins/propane.pdb'
+rm 'shell-lesson-data/exercise-data/proteins/script1.sh'
+rm 'shell-lesson-data/exercise-data/proteins/script2.sh'
+rm 'shell-lesson-data/exercise-data/proteins/script3.sh'
+rm 'shell-lesson-data/exercise-data/proteins/sorted-lengths.txt'
+rm 'shell-lesson-data/exercise-data/proteins/sorted.sh'
+rm 'shell-lesson-data/exercise-data/proteins/species.sh'
+rm 'shell-lesson-data/exercise-data/proteins/testfile01.txt'
+rm 'shell-lesson-data/exercise-data/writing/LittleWomen.txt'
+rm 'shell-lesson-data/exercise-data/writing/haiku.txt'
+rm 'shell-lesson-data/exercise-data/writing/thesis_backup/quotations.txt'
+rm 'shell-lesson-data/north-pacific-gyre/NENE01729A.txt'
+rm 'shell-lesson-data/north-pacific-gyre/NENE01729B.txt'
+rm 'shell-lesson-data/north-pacific-gyre/NENE01736A.txt'
+rm 'shell-lesson-data/north-pacific-gyre/NENE01751A.txt'
+rm 'shell-lesson-data/north-pacific-gyre/NENE01751B.txt'
+rm 'shell-lesson-data/north-pacific-gyre/NENE01812A.txt'
+rm 'shell-lesson-data/north-pacific-gyre/NENE01843A.txt'
+rm 'shell-lesson-data/north-pacific-gyre/NENE01843B.txt'
+rm 'shell-lesson-data/north-pacific-gyre/NENE01971Z.txt'
+rm 'shell-lesson-data/north-pacific-gyre/NENE01978A.txt'
+rm 'shell-lesson-data/north-pacific-gyre/NENE01978B.txt'
+rm 'shell-lesson-data/north-pacific-gyre/NENE02018B.txt'
+rm 'shell-lesson-data/north-pacific-gyre/NENE02040A.txt'
+rm 'shell-lesson-data/north-pacific-gyre/NENE02040B.txt'
+rm 'shell-lesson-data/north-pacific-gyre/NENE02040Z.txt'
+rm 'shell-lesson-data/north-pacific-gyre/NENE02043A.txt'
+rm 'shell-lesson-data/north-pacific-gyre/NENE02043B.txt'
+rm 'shell-lesson-data/north-pacific-gyre/do-errors.sh'
+rm 'shell-lesson-data/north-pacific-gyre/do-stats.sh'
+rm 'shell-lesson-data/north-pacific-gyre/goodiff.sh'
+rm 'shell-lesson-data/north-pacific-gyre/goostats.sh'
+rm 'shell-lesson-data/north-pacific-gyre/stats-NENE01729A.txt'
+rm 'shell-lesson-data/north-pacific-gyre/stats-NENE01729B.txt'
+rm 'shell-lesson-data/north-pacific-gyre/stats-NENE01736A.txt'
+rm 'shell-lesson-data/north-pacific-gyre/stats-NENE01751A.txt'
+rm 'shell-lesson-data/north-pacific-gyre/stats-NENE01751B.txt'
+rm 'shell-lesson-data/north-pacific-gyre/stats-NENE01812A.txt'
+rm 'shell-lesson-data/north-pacific-gyre/stats-NENE01843A.txt'
+rm 'shell-lesson-data/north-pacific-gyre/stats-NENE01843B.txt'
+rm 'shell-lesson-data/north-pacific-gyre/stats-NENE01978A.txt'
+rm 'shell-lesson-data/north-pacific-gyre/stats-NENE01978B.txt'
+rm 'shell-lesson-data/north-pacific-gyre/stats-NENE02018B.txt'
+rm 'shell-lesson-data/north-pacific-gyre/stats-NENE02040A.txt'
+rm 'shell-lesson-data/north-pacific-gyre/stats-NENE02040B.txt'
+rm 'shell-lesson-data/north-pacific-gyre/stats-NENE02043A.txt'
+rm 'shell-lesson-data/north-pacific-gyre/stats-NENE02043B.txt'
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   .gitignore[m
+	[32mmodified:   git_script_2[m
+	[32mdeleted:    shell-lesson-data/exercise-data/animal-counts/animals.csv[m
+	[32mdeleted:    shell-lesson-data/exercise-data/animal-counts/animals.txt[m
+	[32mdeleted:    shell-lesson-data/exercise-data/animal-counts/bear.txt[m
+	[32mdeleted:    shell-lesson-data/exercise-data/animal-counts/final.txt[m
+	[32mdeleted:    shell-lesson-data/exercise-data/animal-counts/rabbit.txt[m
+	[32mdeleted:    shell-lesson-data/exercise-data/animal-counts/redo-figure-3.sh[m
+	[32mdeleted:    shell-lesson-data/exercise-data/animal-counts/species,sh[m
+	[32mdeleted:    shell-lesson-data/exercise-data/animal-counts/species.sh[m
+	[32mdeleted:    shell-lesson-data/exercise-data/backup/minotaur.dat[m
+	[32mdeleted:    shell-lesson-data/exercise-data/backup/unicorn.dat[m
+	[32mdeleted:    shell-lesson-data/exercise-data/creatures/basilisk.dat[m
+	[32mdeleted:    shell-lesson-data/exercise-data/creatures/for[m
+	[32mdeleted:    shell-lesson-data/exercise-data/creatures/head[m
+	[32mdeleted:    shell-lesson-data/exercise-data/creatures/minotaur.dat[m
+	[32mdeleted:    shell-lesson-data/exercise-data/creatures/original-basilisk.dat[m
+	[32mdeleted:    shell-lesson-data/exercise-data/creatures/original-minotaur.dat[m
+	[32mdeleted:    shell-lesson-data/exercise-data/creatures/original-unicorn.dat[m
+	[32mdeleted:    shell-lesson-data/exercise-data/creatures/unicorn.dat[m
+	[32mdeleted:    shell-lesson-data/exercise-data/numbers.txt[m
+	[32mdeleted:    shell-lesson-data/exercise-data/proteins/alkanes.pdb[m
+	[32mdeleted:    shell-lesson-data/exercise-data/proteins/all.pdb[m
+	[32mdeleted:    shell-lesson-data/exercise-data/proteins/cubane.pdb[m
+	[32mdeleted:    shell-lesson-data/exercise-data/proteins/ethane.pdb[m
+	[32mdeleted:    shell-lesson-data/exercise-data/proteins/final.txt[m
+	[32mdeleted:    shell-lesson-data/exercise-data/proteins/lengths.txt[m
+	[32mdeleted:    shell-lesson-data/exercise-data/proteins/methane.pdb[m
+	[32mdeleted:    shell-lesson-data/exercise-data/proteins/middle.sh[m
+	[32mdeleted:    shell-lesson-data/exercise-data/proteins/octane.pdb[m
+	[32mdeleted:    shell-lesson-data/exercise-data/proteins/pentane.pdb[m
+	[32mdeleted:    shell-lesson-data/exercise-data/proteins/propane.pdb[m
+	[32mdeleted:    shell-lesson-data/exercise-data/proteins/script1.sh[m
+	[32mdeleted:    shell-lesson-data/exercise-data/proteins/script2.sh[m
+	[32mdeleted:    shell-lesson-data/exercise-data/proteins/script3.sh[m
+	[32mdeleted:    shell-lesson-data/exercise-data/proteins/sorted-lengths.txt[m
+	[32mdeleted:    shell-lesson-data/exercise-data/proteins/sorted.sh[m
+	[32mdeleted:    shell-lesson-data/exercise-data/proteins/species.sh[m
+	[32mdeleted:    shell-lesson-data/exercise-data/proteins/testfile01.txt[m
+	[32mdeleted:    shell-lesson-data/exercise-data/writing/LittleWomen.txt[m
+	[32mdeleted:    shell-lesson-data/exercise-data/writing/haiku.txt[m
+	[32mdeleted:    shell-lesson-data/exercise-data/writing/thesis_backup/quotations.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/NENE01729A.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/NENE01729B.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/NENE01736A.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/NENE01751A.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/NENE01751B.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/NENE01812A.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/NENE01843A.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/NENE01843B.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/NENE01971Z.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/NENE01978A.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/NENE01978B.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/NENE02018B.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/NENE02040A.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/NENE02040B.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/NENE02040Z.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/NENE02043A.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/NENE02043B.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/do-errors.sh[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/do-stats.sh[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/goodiff.sh[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/goostats.sh[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/stats-NENE01729A.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/stats-NENE01729B.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/stats-NENE01736A.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/stats-NENE01751A.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/stats-NENE01751B.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/stats-NENE01812A.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/stats-NENE01843A.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/stats-NENE01843B.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/stats-NENE01978A.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/stats-NENE01978B.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/stats-NENE02018B.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/stats-NENE02040A.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/stats-NENE02040B.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/stats-NENE02043A.txt[m
+	[32mdeleted:    shell-lesson-data/north-pacific-gyre/stats-NENE02043B.txt[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   git_script_2[m
+
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git commit '[K-m 'ignot[Kre[Ked data'
+[master 013dc1f] ignored data
+ 78 files changed, 45 insertions(+), 27989 deletions(-)
+ create mode 100644 .gitignore
+ delete mode 100644 shell-lesson-data/exercise-data/animal-counts/animals.csv
+ delete mode 100644 shell-lesson-data/exercise-data/animal-counts/animals.txt
+ delete mode 100644 shell-lesson-data/exercise-data/animal-counts/bear.txt
+ delete mode 100644 shell-lesson-data/exercise-data/animal-counts/final.txt
+ delete mode 100644 shell-lesson-data/exercise-data/animal-counts/rabbit.txt
+ delete mode 100644 shell-lesson-data/exercise-data/animal-counts/redo-figure-3.sh
+ delete mode 100644 shell-lesson-data/exercise-data/animal-counts/species,sh
+ delete mode 100644 shell-lesson-data/exercise-data/animal-counts/species.sh
+ delete mode 100644 shell-lesson-data/exercise-data/backup/minotaur.dat
+ delete mode 100644 shell-lesson-data/exercise-data/backup/unicorn.dat
+ delete mode 100644 shell-lesson-data/exercise-data/creatures/basilisk.dat
+ delete mode 100644 shell-lesson-data/exercise-data/creatures/for
+ delete mode 100644 shell-lesson-data/exercise-data/creatures/head
+ delete mode 100644 shell-lesson-data/exercise-data/creatures/minotaur.dat
+ delete mode 100644 shell-lesson-data/exercise-data/creatures/original-basilisk.dat
+ delete mode 100644 shell-lesson-data/exercise-data/creatures/original-minotaur.dat
+ delete mode 100644 shell-lesson-data/exercise-data/creatures/original-unicorn.dat
+ delete mode 100644 shell-lesson-data/exercise-data/creatures/unicorn.dat
+ delete mode 100644 shell-lesson-data/exercise-data/numbers.txt
+ delete mode 100644 shell-lesson-data/exercise-data/proteins/alkanes.pdb
+ delete mode 100644 shell-lesson-data/exercise-data/proteins/all.pdb
+ delete mode 100644 shell-lesson-data/exercise-data/proteins/cubane.pdb
+ delete mode 100644 shell-lesson-data/exercise-data/proteins/ethane.pdb
+ delete mode 100644 shell-lesson-data/exercise-data/proteins/final.txt
+ delete mode 100644 shell-lesson-data/exercise-data/proteins/lengths.txt
+ delete mode 100644 shell-lesson-data/exercise-data/proteins/methane.pdb
+ delete mode 100644 shell-lesson-data/exercise-data/proteins/middle.sh
+ delete mode 100644 shell-lesson-data/exercise-data/proteins/octane.pdb
+ delete mode 100644 shell-lesson-data/exercise-data/proteins/pentane.pdb
+ delete mode 100644 shell-lesson-data/exercise-data/proteins/propane.pdb
+ delete mode 100644 shell-lesson-data/exercise-data/proteins/script1.sh
+ delete mode 100644 shell-lesson-data/exercise-data/proteins/script2.sh
+ delete mode 100644 shell-lesson-data/exercise-data/proteins/script3.sh
+ delete mode 100644 shell-lesson-data/exercise-data/proteins/sorted-lengths.txt
+ delete mode 100644 shell-lesson-data/exercise-data/proteins/sorted.sh
+ delete mode 100644 shell-lesson-data/exercise-data/proteins/species.sh
+ delete mode 100644 shell-lesson-data/exercise-data/proteins/testfile01.txt
+ delete mode 100644 shell-lesson-data/exercise-data/writing/LittleWomen.txt
+ delete mode 100644 shell-lesson-data/exercise-data/writing/haiku.txt
+ delete mode 100644 shell-lesson-data/exercise-data/writing/thesis_backup/quotations.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/NENE01729A.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/NENE01729B.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/NENE01736A.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/NENE01751A.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/NENE01751B.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/NENE01812A.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/NENE01843A.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/NENE01843B.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/NENE01971Z.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/NENE01978A.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/NENE01978B.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/NENE02018B.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/NENE02040A.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/NENE02040B.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/NENE02040Z.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/NENE02043A.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/NENE02043B.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/do-errors.sh
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/do-stats.sh
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/goodiff.sh
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/goostats.sh
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/stats-NENE01729A.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/stats-NENE01729B.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/stats-NENE01736A.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/stats-NENE01751A.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/stats-NENE01751B.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/stats-NENE01812A.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/stats-NENE01843A.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/stats-NENE01843B.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/stats-NENE01978A.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/stats-NENE01978B.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/stats-NENE02018B.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/stats-NENE02040A.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/stats-NENE02040B.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/stats-NENE02043A.txt
+ delete mode 100644 shell-lesson-data/north-pacific-gyre/stats-NENE02043B.txt
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   git_script_2[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ ls
+[0m[01;32mCONTRIBUTING.md[0m  [01;32mREADME[0m  [01;32mgit_script_2[0m  [34;42mshell-lesson-data[0m  [01;32munix_script_1.1[0m
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ clear
+[H[2J[3J(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ clear[3Plsgit statuscommit -m 'ignored data'status[Krm -r --cached shell-lesson-datals-files[K
+.gitignore
+CONTRIBUTING.md
+README
+git_script_2
+unix_script_1.1
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git branch login
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git checkout login
+M	git_script_2
+Switched to branch 'login'
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git status
+On branch login
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   git_script_2[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module
