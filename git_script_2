@@ -3355,4 +3355,26 @@ Changes not staged for commit:
 	[31mmodified:   git_script_2[m
 
 no changes added to commit (use "git add" and/or "git commit -a")
-(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ touch login [K.html
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ f[Kgit add .
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git status
+On branch login
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   git_script_2[m
+	[32mnew file:   login.html[m
+
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git commit -m 'login'
+[login e5ab850] login
+ 2 files changed, 379 insertions(+), 1 deletion(-)
+ create mode 100644 login.html
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git status
+On branch login
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   git_script_2[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git checkout master
+error: Your local changes to the f
