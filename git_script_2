@@ -1,0 +1,74 @@
+Script started on 2022-05-23 13:08:04+05:30 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="120" LINES="30"]
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git version
+git version 2.25.1
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git confit [K[Kg --list
+[?1h=user.email=senthil.kumar@tigeranalytics.com[m
+user.name=Senthil Kumar[m
+init.defaultbranch=main[m
+[K[?1l>(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git init
+Initialized empty Git repository in /mnt/d/Assignment/ML_Modules/Module_1/.git/
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ ls
+[0m[01;32mgit_script_2[0m  [34;42mshell-lesson-data[0m  [01;32munix_script_1.1[0m
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ ls -F
+[0m[01;32mgit_script_2[0m*  [34;42mshell-lesson-data[0m/  [01;32munix_script_1.1[0m*
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ ls -a
+[0m[34;42m.[0m  [34;42m..[0m  [34;42m.git[0m  [01;32mgit_script_2[0m  [34;42mshell-lesson-data[0m  [01;32munix_script_1.1[0m
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ cd .
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ ls
+[0m[01;32mgit_script_2[0m  [34;42mshell-lesson-data[0m  [01;32munix_script_1.1[0m
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ cd ..
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules[00m$ cd .
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules[00m$ x[Kcd Module_1
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mgit_script_2[m
+	[31mshell-lesson-data/[m
+	[31munix_script_1.1[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git -commit [K[K[K[K[K[K[K[Kcommit -m "Files added"
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mgit_script_2[m
+	[31mshell-lesson-data/[m
+	[31munix_script_1.1[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git add[K[K[K[K[K[K[Kecho 'My [K[KY PROJECT' >re[K[KREADME
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ ls
+[0m[01;32mREADME[0m  [01;32mgit_script_2[0m  [34;42mshell-lesson-data[0m  [01;32munix_script_1.1[0m
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ R[Kcat README 
+MY PROJECT
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git status 
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mREADME[m
+	[31mgit_script_2[m
+	[31mshell-lesson-data/[m
+	[31munix_script_1.1[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git add README
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ gir add *
+
+Command 'gir' not found, did you mean:
+
+  command 'gid' from deb id-utils (4.6+git20120811-4ubuntu2)
+  command 'dir' from deb coreutils (8.30-3ubuntu2)
+  command 'gio' from deb libglib2.0-bin (2.64.6
