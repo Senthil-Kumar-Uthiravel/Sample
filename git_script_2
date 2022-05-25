@@ -2688,4 +2688,259 @@ hint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;
  create mode 100644 shell-lesson-data/north-pacific-gyre/stats-NENE02043A.txt
  create mode 100644 shell-lesson-data/north-pacific-gyre/stats-NENE02043B.txt
  create mode 100644 unix_script_1.1
-(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ gir[Kt add *
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git sa[Ktatus
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   CONTRIBUTING.md[m
+	[32mnew file:   README[m
+	[32mmodified:   git_script_2[m
+
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git checkout -- CONTRIBUTING.md
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git checkout -- CONTRIBUTING.mdstatus[K
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   CONTRIBUTING.md[m
+	[32mnew file:   README[m
+	[32mmodified:   git_script_2[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   git_script_2[m
+
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git restore --staged CONTRIBUTING.md
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git restore --staged CONTRIBUTING.mdstatus[K
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   README[m
+	[32mmodified:   git_script_2[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+	[31mmodified:   git_script_2[m
+
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$  git restore CONTRIBUTING.md
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   README[m
+	[32mmodified:   git_script_2[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   git_script_2[m
+
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git commit -a[Km -a '[K"All Done'[K"
+error: pathspec 'All Done' did not match any file(s) known to git
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git commit -m -a "All Done"status[Krestore --staged CONTRIBUTING.mdstatus[Kcheckout -- CONTRIBUTING.mdstatus[K[1Padd *commit --amendadd forgotten_filecommit -m 'Initial commit'[12P-amendlog --pretty=format:"%h - %an, %ar : %s"[26Pcommit --amendlog --pretty=format:"%h - %an, %ar : %s"[Kstat[Kmv README READMEls[Kgit mv README.md README[1Prm --cache[C[C[C[C[C[C[C[CCONTRIBUTING.md ls[Kgit statuscommit -m "Change titles and styling on homepage"[Bstatus[Kls[Kgit rm CONTRIBUTING.md [1P--cached README[1@mv README.m[C[C[C[C[C[C[C[Cls[Kgit mv README README[6Plog --statpretty=format:"%h - %an, %ar : %s"[26Pcommit --amendm 'Initial commit'[8Padd forgotten_file[4Pcommit --amend[9Padd *statuscheckout -- CONTRIBUTING.mdstatus[Krestore --staged CONTRIBUTING.mdstatus[Kcommit -m -a "All Done"[Kgit remote -v
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git remote -vcommit -m -a "All Done"status[K
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   README[m
+	[32mmodified:   git_script_2[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   git_script_2[m
+
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ cd grit
+bash: cd: grit: No such file or directory
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git fetch pb
+fatal: 'pb' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ gu[Kit tag
+[?1h=[K[?1l>(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   README[m
+	[32mmodified:   git_script_2[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   git_script_2[m
+
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git tag -l "v1.8.5*"
+[?1h=[K[?1l>(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git tag -l "v1.8.5*"[K[K[K[K[K[K[K[K[K[K
+[?1h=[K[?1l>(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git version
+git version 2.25.1
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git version[1Ptag -l "v1.8.5*"[C[C[1P8.5*"[1P8.5*"[1P8.5*"[C[1P.5*"2.5*"[C.5*"2.5*"5.5*"[C[C[1P*"
+[?1h=[K[?1l>(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git tag -a v1.4 -m "my version 1.4"[1P"[1P"[1P"2"."2"5"."1"[1P[1@2[1@5[1P[1@2
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git tag -a v2.25 -m "my version 2.25.1"[20Pl "2.25.*"[8Pversion[1Ptag -l
+[?1h=v2.25[m
+[K[?1l>(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git show v1.4
+fatal: ambiguous argument 'v1.4': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git show v1.4[Kgit show v1.4[K[K[K2.25
+[?1h=[33mtag v2.25[m[m
+Tagger: Senthil Kumar <senthil.kumar@tigeranalytics.com>[m
+Date:   Wed May 25 12:14:02 2022 +0530[m
+[m
+my version 2.25.1[m
+[m
+[33mcommit e3e037732b1bb17838770c9b225f3934febb771c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v2.25[m[33m)[m[m
+Author: Senthil Kumar <senthil.kumar@tigeranalytics.com>[m
+Date:   Wed May 25 11:33:01 2022 +0530[m
+[m
+    Change titles and styling on homepage[m
+[m
+[1mdiff --git a/CONTRIBUTING.md b/CONTRIBUTING.md[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..762ddd8[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/CONTRIBUTING.md[m[m
+[36m@@ -0,0 +1,2 @@[m[m
+[32m+[m[32mThis is a git assignment under TA ML Modules.[m[m
+[32m+[m[32mThis is the second line update..[m[41m       [m[m
+[1mdiff --git a/git_script_2 b/git_script_2[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..587ea03[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/git_script_2[m[m
+[36m@@ -0,0 +1,74 @@[m[m
+[32m+[m[32mScript started on 2022-05-23 13:08:04+05:30 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="120" LINES="30"][m[m
+[32m+[m[32m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git version[m[41m[7m^M[27m[m[m
+[32m+[m[32mgit version 2.25.1[m[41m[7m^M[27m[m[m
+[32m+[m[32m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git config --list[m[41m[7m^M[27m[m[m
+[32m+[m[32m[7m^M[27muser.email=senthil.kumar@tigeranalytics.com[m[m[41m[7m^M[27m[m[m
+[32m+[m[32muser.name=Senthil Kumar[m[m[41m[7m^M[27m[m[m
+[32m+[m[32minit.defaultbranch=main[m[m[41m[7m^M[27m[m[m
+[32m+[m[32m[7m^M[27m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git init[m[41m[7m^M[27m[m[m
+[32m+[m[32mInitialized empty Git repository in /mnt/d/Assignment/ML_Modules/Module_1/.git/[m[41m[7m^M[27m[m[m
+[32m+[m[32m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ ls[m[41m[7m^M[27m[m[m
+[32m+[m[32m[0m[01;32mgit_script_2[0m  [34;42mshell-lesson-data[0m  [01;32munix_script_1.1[0m[m[41m[7m^M[27m[m[m
+[32m+[m[32m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ ls -F[m[41m[7m^M[27m[m[m
+[32m+[m[32m[0m[01;32mgit_script_2[0m*  [34;42mshell-lesson-data[0m/  [01;32munix_script_1.1[0m*[m[41m[7m^M[27m[m[m
+[32m+[m[32m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ ls -a[m[41m[7m^M[27m[m[m
+[32m+[m[32m[0m[34;42m.[0m  [34;42m..[0m  [34;42m.git[0m  [01;32mgit_script_2[0m  [34;42mshell-lesson-data[0m  [01;32munix_script_1.1[0m[m[41m[7m^M[27m[m[m
+[32m+[m[32m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ cd .[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KESCESC[K [KESCESC[K^?^?[K:[K[K[32m+[m[32m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ ls[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m[0m[01;32mgit_script_2[0m  [34;42mshell-lesson-data[0m  [01;32munix_script_1.1[0m[m[41m[7m^M[27m[m[m
+:[K[K[?1l>(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git tag v1.4-lw[C[1P-lw[1P-lw[1P-lw2-lw.-lw2-lw5-lw
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git tag
+[?1h=v2.25[m
+v2.25-lw[m
+[K[?1l>(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$  git show v1.4-lw
+fatal: ambiguous argument 'v1.4-lw': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git tag[C v2.25-lw[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K git show v1.4-lw[1P-lw[1P-lw[1P-lw2-lw.-lw2-lw5-lw
+[?1h=[33mcommit e3e037732b1bb17838770c9b225f3934febb771c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v2.25-lw[m[33m, [m[1;33mtag: v2.25[m[33m)[m[m
+Author: Senthil Kumar <senthil.kumar@tigeranalytics.com>[m
+Date:   Wed May 25 11:33:01 2022 +0530[m
+[m
+    Change titles and styling on homepage[m
+[m
+[1mdiff --git a/CONTRIBUTING.md b/CONTRIBUTING.md[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..762ddd8[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/CONTRIBUTING.md[m[m
+[36m@@ -0,0 +1,2 @@[m[m
+[32m+[m[32mThis is a git assignment under TA ML Modules.[m[m
+[32m+[m[32mThis is the second line update..[m[41m       [m[m
+[1mdiff --git a/git_script_2 b/git_script_2[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..587ea03[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/git_script_2[m[m
+[36m@@ -0,0 +1,74 @@[m[m
+[32m+[m[32mScript started on 2022-05-23 13:08:04+05:30 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="120" LINES="30"][m[m
+[32m+[m[32m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git version[m[41m[7m^M[27m[m[m
+[32m+[m[32mgit version 2.25.1[m[41m[7m^M[27m[m[m
+[32m+[m[32m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git config --list[m[41m[7m^M[27m[m[m
+[32m+[m[32m[7m^M[27muser.email=senthil.kumar@tigeranalytics.com[m[m[41m[7m^M[27m[m[m
+[32m+[m[32muser.name=Senthil Kumar[m[m[41m[7m^M[27m[m[m
+[32m+[m[32minit.defaultbranch=main[m[m[41m[7m^M[27m[m[m
+[32m+[m[32m[7m^M[27m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git init[m[41m[7m^M[27m[m[m
+[32m+[m[32mInitialized empty Git repository in /mnt/d/Assignment/ML_Modules/Module_1/.git/[m[41m[7m^M[27m[m[m
+[32m+[m[32m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ ls[m[41m[7m^M[27m[m[m
+[32m+[m[32m[0m[01;32mgit_script_2[0m  [34;42mshell-lesson-data[0m  [01;32munix_script_1.1[0m[m[41m[7m^M[27m[m[m
+[32m+[m[32m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ ls -F[m[41m[7m^M[27m[m[m
+[32m+[m[32m[0m[01;32mgit_script_2[0m*  [34;42mshell-lesson-data[0m/  [01;32munix_script_1.1[0m*[m[41m[7m^M[27m[m[m
+[32m+[m[32m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ ls -a[m[41m[7m^M[27m[m[m
+[32m+[m[32m[0m[34;42m.[0m  [34;42m..[0m  [34;42m.git[0m  [01;32mgit_script_2[0m  [34;42mshell-lesson-data[0m  [01;32munix_script_1.1[0m[m[41m[7m^M[27m[m[m
+[32m+[m[32m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ cd .[m[41m[7m^M[27m[m[m
+[32m+[m[32m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ ls[m[41m[7m^M[27m[m[m
+[32m+[m[32m[0m[01;32mgit_script_2[0m  [34;42mshell-lesson-data[0m  [01;32munix_script_1.1[0m[m[41m[7m^M[27m[m[m
+[32m+[m[32m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ cd ..[m[41m[7m^M[27m[m[m
+[32m+[m[32m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules[00m$ cd .[m[41m[7m^M[27m[m[m
+[32m+[m[32m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules[00m$ cd M[7m^G[27module_1[m[41m[7m^M[27m[m[m
+[32m+[m[32m(base) 0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[7m^G[27m[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git status[m[41m[7m^M[27m[m[m
+:[K[K[?1l>(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git push origin --delete v2.25
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$  git tag -d v1.4-lw[C[1P-lw[1P-lw[1P-lw2-lw.-lw2-lw5-lw
+Deleted tag 'v2.25-lw' (was e3e0377)
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git push origin --delete v2.25tag[K v2.25-lw[Kpush origin --delete v2.25[Kgit push origin --delete v2.25[Kgit push origin --delete v2.25tag[K -d v2.25
+Deleted tag 'v2.25' (was cdbfcbf)
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git tag
+[?1h=[K[?1l>(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git config --global alias.co checkout
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ $ git config --global alias.br branch
+$: command not found
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ $ git config --global alias.ci commit
+$: command not found
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ $ git config --global alias.st status[1P[1P
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git config --global alias.st status$ git config --global alias.ci commit[1P[1P
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git config --global alias.ci commitst status$ git config --global alias.ci commitbr branch[C[1P[1P
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git ci
+hint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;43r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[41;78H(B[0;7m[ Reading... ](B[m[41;76H(B[0;7m[ Read 12 lines ](B[m[H(B[0;7m  GNU nano 4.8                                           /mnt/d/Assignment/ML_Modules/Module_1/.git/COMMIT_EDITMSG                                                      [1;167H(B[m[42d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[42;113H(B[0;7mM-A(B[m Mark Text   (B[0;7mM-](B[m To Bracket  (B[0;7mM-Q(B[m Previous[43d(B[0;7m^X(B[m Exit[43;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[43;113H(B[0;7mM-6(B[m Copy Text   (B[0;7m^Q(B[m Where Was    (B[0;7mM-W(B[m Next[41d[3d[39;49m[36m# Please enter the commit message for your changes. Lines starting[4d# with '#' will be ignored, and an empty message aborts the commit.[5d#[6d# On branch master[7d# Changes to be committed:[8d#       new file:   README[9d#       modified:   git_script_2[10d#[11d# Changes not staged for commit:[12d#       modified:   git_script_2[13d#[2d[39m(B[m[?12l[?25h[?25l[42;17H[26X[42;43H(B[0;7mM-D(B[m DOS Format[18X[42;81H    (B[0;7mM-A(B[m Append          [42;113H[14X[42;127H(B[0;7mM-B(B[m Backup File[K[43;2H(B[0;7mC(B[m Cancel[17G[26X[43;43H(B[0;7mM-M(B[m Mac Format[28X[43;85H(B[0;7mM-P(B[m Prepend         [43;113H[14X[43;127H(B[0;7m^T(B[m To Files[K[41d(B[0;7mFile Name to Write: /mnt/d/Assignment/ML_Modules/Module_1/.git/COMMIT_EDITMSG                                                                                           [41;1H(B[m[41;78H[?12l[?25h[?25l[1K (B[0;7m[ Cancelled ](B[m[K[42;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos      (B[0;7mM-U(B[m Undo[42;113H(B[0;7mM-A(B[m Mark Text   (B[0;7mM-](B[m To Bracket  (B[0;7mM-Q(B[m Previous[43;2H(B[0;7mX(B[m Exit  [17G(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace      (B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[43;113H(B[0;7mM-6(B[m Copy Text   (B[0;7m^Q(B[m Where Was    (B[0;7mM-W(B[m Next[41d[2d[?12l[?25h[?25l[41d[J[43d[?12l[?25h[43;1H[?1049l[23;0;0t[?1l>[?2004l[KAborting commit due to empty commit message.
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git cionfig --global alias.br branchci commitst status$ git config --global alias.ci commitbr branchgit config --global alias.co checkouttag[K -d v2.25[14@push origin --delete[C[C[C[C[C[Ctag[K v2.25-lw[2Pshow v2.25[1P1.4[3Ptag -la v2.25 -m "my version 2.25.1"[20Pl "2.25.*"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit add README test.rb LICENSE
+fatal: pathspec 'test.rb' did not match any files
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git add r[KRe[KEADME
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ R[Kgit add README[K[K[K[K[K[Ktest.rb
+fatal: pathspec 'test.rb' did not match any files
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git add test.rb[K[K[K[K[K[K[KLICENSE
+fatal: pathspec 'LICENSE' did not match any files
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git commit -m 'Initial commit'
+[master 024bbf3] Initial commit
+ 2 files changed, 2620 insertions(+), 1 deletion(-)
+ create mode 100644 README
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ ls
+[0m[01;32mCONTRIBUTING.md[0m  [01;32mREADME[0m  [01;32mgit_script_2[0m  [34;42mshell-lesson-data[0m  [01;32munix_script_1.1[0m
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ lsgit commit -m 'Initial commit'[C[1P[1P[1P[1P[1P[1@i
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   git_script_2[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git branch twsti[K[K[K[Kesting
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ ls
+[0m[01;32mCONTRIBUTING.md[0m  [01;32mREADME[0m  [01;32mgit_script_2[0m  [34;42mshell-lesson-data[0m  [01;32munix_script_1.1[0m
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ f[Kgit status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   git_script_2[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ [K(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01;32msenthil_kumar@TIGER01942[00m:[01;34m/mnt/d/Assignment/ML_Modules/Module_1[00m$ git commit
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   git_script_2[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) ]0;senthil_kumar@TIGER01942: /mnt/d/Assignment/ML_Modules/Module_1[01
