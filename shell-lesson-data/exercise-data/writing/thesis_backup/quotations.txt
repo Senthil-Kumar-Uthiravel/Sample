@@ -1,2 +1,0 @@
-Hi,
-This is a Machine Learning Module 1 assignment to pick up Unix Commands.
